@@ -43,6 +43,17 @@ $$
 
 The weight of the reference pixel $p$ in the average is set to the maximum of the weights in the neighborhood $B(p, r)$. This setting avoids excessive weighting of the reference point in the average.
 
+# Results
+
+<img width="641" alt="image" src="https://github.com/dwipddalal/NeuralSight/assets/91228207/f425bc87-5230-408a-8b9f-fe65e60edff3">
+<img width="640" alt="image" src="https://github.com/dwipddalal/NeuralSight/assets/91228207/4db66f76-74bb-4561-af45-e86321a181bc">
+<img width="637" alt="image" src="https://github.com/dwipddalal/NeuralSight/assets/91228207/82dc3ae2-4545-4675-b259-184759de29fa">
+<img width="641" alt="image" src="https://github.com/dwipddalal/NeuralSight/assets/91228207/2c7a5801-1b46-4162-ae9b-04b6f378182d">
+
+
+
+
+
 
 # Observations on NLM Image Denoising for Different Parameters
 
