@@ -9,6 +9,6 @@ The `gaussian` function defined in the code snippet is used to create a one-dime
 
 The Gaussian function, which forms the basis of this filter, is defined by the formula:
 
-$ G(x) = e^{-\frac{1}{2} \left( \frac{x}{\sigma} \right)^2} $
+$$ G(x) = e^{-\frac{1}{2} \left( \frac{x}{\sigma} \right)^2} $$
 
-$ \sigma $ is the standard deviation of the Gaussian distribution.
+$\sigma$ is the standard deviation of the Gaussian distribution.
