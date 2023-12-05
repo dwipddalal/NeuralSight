@@ -82,4 +82,8 @@ kernel_fft = np.conj(kernel_fft) / (np.abs(kernel_fft) ** 2 + K)
 Hence, the code is a practical implementation of the division component of the Wiener filter, assuming $G(u,v)$ has already been divided by $H(u,v)$, and `K` is used as an estimate for the noise-to-signal power ratio across all frequencies.
 """
 
+## Results
+
+<img width="384" alt="image" src="https://github.com/dwipddalal/NeuralSight/assets/91228207/425c03ef-884d-47b7-97c7-48eaa39a7ae8">
+
 
