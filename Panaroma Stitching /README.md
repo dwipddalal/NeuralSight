@@ -75,3 +75,10 @@ Inverse transformation is used to ensure that all pixels in the transformed imag
 ---
 
 The `ImageHomography` class provides a comprehensive set of methods for computing and applying image homographies. The incorporation of the RANSAC algorithm helps in robustly estimating the homography even when there are mismatched point correspondences. The transform methods allow for the warping of images and overlaying them on a target image, which is especially useful for applications like image stitching.
+
+
+
+## Result
+
+<img width="377" alt="image" src="https://github.com/dwipddalal/NeuralSight/assets/91228207/31255ce8-b0f3-440f-8831-e019b35e63b7">
+
