@@ -5,7 +5,7 @@ Welcome to a comprehensive library featuring a collection of renowned and essent
 
 - [Image Captioning with attention](https://github.com/dwipddalal/Image-Captioning-on-MS-COCO)
 - [Image Super-Resolution with GAN](https://github.com/dwipddalal/Image-super-resolution-using-GANs)
-- [Image Segmentation](https://github.com/dwipddalal/Image-segmentation)
+- [Image Segmentation](https://github.com/dwipddalal/image-segmentation-on-mnist)
 
 And some of the core computer vision algorithmic solutions are here:
 
